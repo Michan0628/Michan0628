@@ -4,4 +4,4 @@
   
 📫 subin.heduojiao@gmail.com  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michan0628&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michan0628&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
