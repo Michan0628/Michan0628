@@ -1,4 +1,7 @@
-- 🌱 I’m currently learning Redux
-- 💬 Feel free to contact me! I’m on the lookout for full-time work opportunities and I’d love to collaborate.
-- 📫 subin.heduojiao@gmail.com
+🌱 I’m currently learning Redux  
+  
+💬 Feel free to contact me! I’m on the lookout for full-time work opportunities and I’d love to collaborate.  
+  
+📫 subin.heduojiao@gmail.com  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
