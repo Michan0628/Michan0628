@@ -1,4 +1,4 @@
-🌱 I’m currently learning Redux  
+🌱 Web Developer based in Toronto. Cat lover, fitness enthusiast. 
   
 💬 Feel free to contact me! I’m on the lookout for full-time work opportunities and I’d love to collaborate.  
   
